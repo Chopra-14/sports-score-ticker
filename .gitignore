@@ -1,14 +1,20 @@
+venv/
+.venv/
+
 __pycache__/
 *.pyc
 
 .env
-venv/
-.venv/
-
-.vscode/
-
-*.log
 
 node_modules/
 
+*.log
+
 .DS_Store
+
+.idea/
+.vscode/
+
+docker-data/
+
+*.sqlite3
